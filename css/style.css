@@ -1,0 +1,12 @@
+#wrapper{
+	margin-top: 20px;
+}
+
+.addButton{
+	float: right;
+	margin-right: 15px;
+}
+
+.ShowInfo{
+	color: #004085 !important;
+}
